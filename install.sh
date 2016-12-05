@@ -15,6 +15,9 @@ brew cask install iterm2
 #install zsh
 brew install zsh zsh-completions
 
+#node and yarn
+brew install node
+brew install yarn
 
 #install valet with php and mariadb
 brew install homebrew/php/php70
