@@ -23,7 +23,7 @@ brew install yarn
 brew install homebrew/php/php70
 brew install mariadb
 brew install composer
-composer require consolidation/cgr
+composer global require consolidation/cgr
 cgr laravel/valet
 cgr laravel/installer
 
