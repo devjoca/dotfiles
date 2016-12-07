@@ -29,4 +29,7 @@ composer global require consolidation/cgr
 cgr laravel/valet
 cgr laravel/installer
 
+#install sqeuelpro
+brew cask install sequel-pro
+
 
