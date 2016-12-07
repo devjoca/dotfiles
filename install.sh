@@ -12,8 +12,10 @@ brew cask install nylas-n1
 #install iterm2
 brew cask install iterm2
 
-#install zsh
+#install zsh and oh my zsh
 brew install zsh zsh-completions
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
 
 #node and yarn
 brew install node
