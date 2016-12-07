@@ -1,12 +1,9 @@
 #!/bin/bash
 
-#install telegram
+#install misc apps
 brew cask install telegram
-
-#install spotify
 brew cask install spotify
-
-#install nylas mail client
+brew cask install spotify-notifications
 brew cask install nylas-n1
 
 #install iterm2
