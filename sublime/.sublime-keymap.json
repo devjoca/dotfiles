@@ -1,0 +1,5 @@
+[
+    { "keys": ["super+f", "super+u"], "command": "find_use" },
+    {"keys": ["super+t", "super+a"], "command": "run_all_phpunit_tests"},
+    {"keys": ["super+t", "super+s"], "command": "run_single_phpunit_test"}
+]
