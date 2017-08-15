@@ -1,20 +1,20 @@
 {
-	"bold_folder_labels": true,
-	"caret_style": "phase",
-	"material_theme_accent_lime": true,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
-	"draw_white_space": "all",
-	"font_face": "Operator Mono Book",
-	"font_size": 15,
-	"highlight_line": true,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"line_padding_bottom": 10,
-	"line_padding_top": 10,
-	"phpunit-sublime-terminal": "iTerm",
-	"theme": "Material-Theme.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+    "bold_folder_labels": true,
+    "caret_style": "phase",
+    "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+    "draw_white_space": "all",
+    "font_face": "Operator Mono Light",
+    "font_size": 14,
+    "highlight_line": true,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "line_padding_bottom": 10,
+    "line_padding_top": 10,
+    "material_theme_accent_yellow": true,
+    "phpunit-sublime-terminal": "iTerm",
+    "theme": "Material-Theme.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true
 }
