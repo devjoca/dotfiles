@@ -1,19 +1,3 @@
-
-" A minimal vimrc for new vim users to start with.
-"
-" Referenced here: http://www.benorenstein.com/blog/your-first-vimrc-should-be-nearly-empty/
-
-" Original Author:     Bram Moolenaar <Bram@vim.org>
-" Made more minimal by:  Ben Orenstein
-" Last change:             2012 Jan 20
-"
-" To use it, copy it to
-"     for Unix and OS/2:  ~/.vimrc
-"  for MS-DOS and Win32:  $VIM\_vimrc
-"
-"  If you don't understand a setting in here, just type ':h setting'.
-
-" Use Vim settings, rather than Vi settings (much better!).
 " This must be first, because it changes other options as a side effect.
 set nocompatible
 
@@ -30,6 +14,9 @@ filetype plugin indent on
 set relativenumber
 set number
 
+" set tabspace to 4
+set tabstop=8 softtabstop=0 expandtab shiftwidth=4 smarttab
+
 " require by Vundle
 filetype off
 
@@ -41,8 +28,9 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'ctrlp.vim'
 Plugin 'flazz/vim-colorschemes'
 Plugin 'StanAngeloff/php.vim'
-Plugin 'Shougo/vimproc'
-Plugin 'm2mdas/phpcomplete-extended'
+Plugin 'vim-airline/vim-airline'
+Plugin 'vim-airline/vim-airline-themes'
+Plugin 'posva/vim-vue'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
@@ -53,7 +41,7 @@ let g:ctrlp_show_hidden = 1
 " set color 256
 set t_Co=256
 
-colorscheme Tomorrow-Night-Eighties 
+colorscheme Tomorrow-Night-Eighties
 
-" enable omnicompletion
-autocmd  FileType  php setlocal omnifunc=phpcomplete_extended#CompletePHP
+" set theme for airline
+let g:airline_theme='base16_eighties'
