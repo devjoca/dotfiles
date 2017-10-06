@@ -1,7 +1,6 @@
 #!/bin/bash
 
 #install misc apps
-brew cask install telegram
 brew cask install spotify
 
 #install iterm2

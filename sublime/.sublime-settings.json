@@ -1,20 +1,24 @@
 {
     "bold_folder_labels": true,
     "caret_style": "phase",
-    "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+    "color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
     "draw_white_space": "all",
-    "font_face": "Operator Mono Light",
+    "font_face": "Monaco",
     "font_size": 14,
     "highlight_line": true,
     "ignored_packages":
     [
         "Vintage"
     ],
-    "line_padding_bottom": 10,
-    "line_padding_top": 10,
+    "line_padding_bottom": 8,
+    "line_padding_top": 8,
     "material_theme_accent_yellow": true,
     "phpunit-sublime-terminal": "iTerm",
-    "theme": "Material-Theme.sublime-theme",
+    "theme": "Agila.sublime-theme",
+    "theme_agila_active_tab_entry_yellow": true,
+    "theme_agila_auto_complete_yellow": true,
+    "theme_agila_sidebar_light_icons": true,
+    "theme_agila_sidebar_selected_entry_yellow": true,
     "translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": true
 }
