@@ -2,13 +2,12 @@
 
 #install misc apps
 brew cask install spotify
-
-#install iterm2
+brew cask install telegram
 brew cask install iterm2
+brew cask install sequel-pro
 
-#node and yarn
+#node
 brew install node
-brew install yarn
 
 #install valet with php and mariadb
 brew install homebrew/php/php71
@@ -18,7 +17,5 @@ composer global require consolidation/cgr
 cgr laravel/valet
 cgr laravel/installer
 
-#install sqeuelpro
-brew cask install sequel-pro
 
 
