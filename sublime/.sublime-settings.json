@@ -4,7 +4,7 @@
     "color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
     "draw_white_space": "all",
     "font_face": "Monaco",
-    "font_size": 14,
+    "font_size": 10,
     "highlight_line": true,
     "ignored_packages":
     [
@@ -12,7 +12,6 @@
     ],
     "line_padding_bottom": 8,
     "line_padding_top": 8,
-    "material_theme_accent_yellow": true,
     "phpunit-sublime-terminal": "iTerm",
     "theme": "Agila.sublime-theme",
     "theme_agila_active_tab_entry_yellow": true,
