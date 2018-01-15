@@ -25,12 +25,10 @@ set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 
 Plugin 'VundleVim/Vundle.vim'
-Plugin 'ctrlp.vim'
 Plugin 'flazz/vim-colorschemes'
 Plugin 'StanAngeloff/php.vim'
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
-Plugin 'posva/vim-vue'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
