@@ -14,6 +14,9 @@ filetype plugin indent on
 set relativenumber
 set number
 
+" set vertical splt right
+set splitright
+
 " set tabspace to 4
 set tabstop=4 softtabstop=0 expandtab shiftwidth=4 smarttab
 
