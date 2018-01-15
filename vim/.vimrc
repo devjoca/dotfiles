@@ -45,3 +45,4 @@ colorscheme Tomorrow-Night-Eighties
 
 " set theme for airline
 let g:airline_theme='base16_eighties'
+
