@@ -26,11 +26,10 @@ call vundle#begin()
 
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'ctrlp.vim'
-Plugin 'flazz/vim-colorschemes'
-Plugin 'StanAngeloff/php.vim'
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 Plugin 'fatih/vim-go'
+Plugin 'morhetz/gruvbox'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
@@ -41,8 +40,9 @@ let g:ctrlp_show_hidden = 1
 " set color 256
 set t_Co=256
 
-colorscheme Tomorrow-Night-Eighties
+colorscheme gruvbox
+set background=dark    " Setting dark mode
 
 " set theme for airline
-let g:airline_theme='base16_eighties'
+let g:airline_theme='gruvbox'
 
