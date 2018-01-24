@@ -45,9 +45,13 @@ Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 Plugin 'fatih/vim-go'
 Plugin 'morhetz/gruvbox'
+Plugin 'scrooloose/nerdtree'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
+
+" nerd tree
+map <C-n> :NERDTreeToggle<CR>
 
 " show dotfiles in ctrlp
 let g:ctrlp_show_hidden = 1
