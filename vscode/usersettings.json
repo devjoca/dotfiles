@@ -1,4 +1,7 @@
 {
-    "workbench.colorTheme": "Overflow Contrast (rainglow)",
-    "editor.fontFamily": "Menlo"
+    "workbench.colorTheme": "Jewel (rainglow)",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "terminal.integrated.cursorStyle": "line",
+    "window.zoomLevel": 0
 }
