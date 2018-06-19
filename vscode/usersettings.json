@@ -1,7 +1,15 @@
 {
-    "workbench.colorTheme": "Jewel (rainglow)",
+    "workbench.colorTheme": "Material Theme Ocean",
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
     "terminal.integrated.cursorStyle": "line",
-    "window.zoomLevel": 0
+    "window.zoomLevel": 0,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "editor.renderWhitespace": "all",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 30,
+    "files.trimTrailingWhitespace": true,
+    "materialTheme.fixIconsRunning": false,
+    "workbench.iconTheme": "eq-material-theme-icons-ocean"
 }
