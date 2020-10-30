@@ -1,6 +1,0 @@
-[
-    { "keys": ["super+f", "super+u"], "command": "find_use" },
-    {"keys": ["super+t", "super+a"], "command": "run_all_phpunit_tests"},
-    {"keys": ["super+t", "super+s"], "command": "run_single_phpunit_test"},
-    { "keys": ["super+shift+k"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} }
-]
