@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/joca/.config/nvim/vim-plug'
+let g:netrw_dirhist_2='/home/joca/Code/opentrack/opentrack/test/e2e/report-processing/report-rejections'
+let g:netrw_dirhist_1='/home/joca/Code/opentrack/opentrack/test/e2e/report-processing'
+let g:netrw_dirhist_0='/home/joca/Code/opentrack/opentrack/test/e2e/report-processing/report-holds'
+let g:netrw_dirhist_9='/home/joca/Code/opentrack/opentrack/test/e2e/report-processing'
+let g:netrw_dirhist_8='/home/joca/Code/opentrack/opentrack/test/e2e'
+let g:netrw_dirhist_7='/home/joca/Code/opentrack/opentrack/test'
+let g:netrw_dirhist_6='/home/joca/Code/opentrack/opentrack'
+let g:netrw_dirhist_5='/home/joca/Code/opentrack/opentrack/src/views'
+let g:netrw_dirhist_4='/home/joca/Code/opentrack/opentrack/src'
