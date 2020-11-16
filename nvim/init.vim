@@ -5,3 +5,4 @@ source $HOME/.config/nvim/themes/oceanic-next.vim
 source $HOME/.config/nvim/plug-config/coc.vim
 source $HOME/.config/nvim/themes/airline.vim
 source $HOME/.config/nvim/plug-config/start-screen.vim
+source $HOME/.config/nvim/plug-config/floaterm.vim
