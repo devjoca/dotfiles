@@ -7,8 +7,10 @@
     "html",
     "yaml",
     "json",
-    "python"
+    "python",
+    "typescript"
   ],
+  "prettier.eslintIntegration": true,
   "explorer.width": 35,
   "explorer.icon.enableNerdfont": true,
   "explorer.previewAction.onHover": false,
