@@ -36,7 +36,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'voldikss/vim-floaterm'
     " Emmet HTML
     Plug 'mattn/emmet-vim'
-    " Vue Syntax 
-    Plug 'posva/vim-vue' 
+    " Vue Syntax
+    Plug 'posva/vim-vue'
 
 call plug#end()
