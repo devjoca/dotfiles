@@ -7,17 +7,17 @@
     "html",
     "yaml",
     "json",
-    "python"
+    "python",
+    "typescript"
   ],
+  "tsserver.enableJavascript": false,
+  "tsserver.log": "verbose",
+  "prettier.eslintIntegration": true,
   "explorer.width": 35,
   "explorer.icon.enableNerdfont": true,
   "explorer.previewAction.onHover": false,
   "explorer.keyMappings.global": {
-    "<cr>": [
-      "expandable?",
-      "expand",
-      "open"
-    ],
+    "<cr>": ["expandable?", "expand", "open"],
     "v": "open:vsplit"
   }
 }
