@@ -10,11 +10,12 @@
     "python",
     "typescript"
   ],
+  "tsserver.enableJavascript": false,
+  "tsserver.log": "verbose",
   "prettier.eslintIntegration": true,
   "explorer.width": 35,
   "explorer.icon.enableNerdfont": true,
   "explorer.previewAction.onHover": false,
-  "explorer.position": "right",
   "explorer.keyMappings.global": {
     "<cr>": ["expandable?", "expand", "open"],
     "v": "open:vsplit"
