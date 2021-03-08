@@ -10,7 +10,7 @@
     "python",
     "typescript"
   ],
-  "tsserver.enableJavascript": false,
+  "tsserver.enableJavascript": true,
   "tsserver.log": "verbose",
   "prettier.eslintIntegration": true,
   "explorer.width": 35,
