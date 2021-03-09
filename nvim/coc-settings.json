@@ -12,7 +12,7 @@
   ],
   "tsserver.enableJavascript": true,
   "tsserver.log": "verbose",
-  "prettier.eslintIntegration": true,
+  "prettier.eslintIntegration": false,
   "explorer.width": 35,
   "explorer.icon.enableNerdfont": true,
   "explorer.previewAction.onHover": false,
