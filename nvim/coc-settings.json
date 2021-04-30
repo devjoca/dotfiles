@@ -1,18 +1,17 @@
 {
   "coc.preferences.formatOnSaveFiletypes": [
+    "javascript",
+    "typescript",
+    "python",
     "css",
     "markdown",
-    "javascript",
     "graphql",
     "html",
     "yaml",
-    "json",
-    "python",
-    "typescript"
+    "json"
   ],
   "tsserver.enableJavascript": true,
   "tsserver.log": "verbose",
-  "prettier.eslintIntegration": true,
   "explorer.width": 35,
   "explorer.icon.enableNerdfont": true,
   "explorer.previewAction.onHover": false,
