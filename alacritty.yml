@@ -7,10 +7,16 @@ env:
   # available, otherwise `xterm-256color` is used.
   TERM: xterm-256color
 
+shell:
+  program: /usr/bin/fish
+
 window:
+  dynamic_padding: false
+  startup_mode: Maximized
+  decorations: Full
   padding:
-    x: 6
-    y: 6
+    x: 0
+    y: 10
 
 scrolling:
   history: 10000
@@ -21,16 +27,16 @@ font:
     x: 0
     y: 8
   normal:
-    family: "Input Mono"
+    family: "JetBrainsMono Nerd Font"
     style: Regular
   bold:
-    family: "Input Mono"
+    family: "JetBrainsMono Nerd Font"
     style: Bold
   italic:
-    family: "Input Mono"
+    family: "JetBrainsMono Nerd Font"
     style: Italic
   bold_italic:
-    family: "Input Mono"
+    family: "JetBrainsMono Nerd Font"
     style: Bold Italic
 
 colors:
